@@ -1,0 +1,6 @@
+*.csv
+.DS_Store
+covid-data/
+data/
+dataset/
+.ipynb_checkpoints/
