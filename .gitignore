@@ -5,3 +5,7 @@ data/
 dataset/
 .ipynb_checkpoints/
 __pycache__/
+100knock-data_analytics/
+100knock-process-visualization/
+sample_picture/
+MLSys_100Knocks/
